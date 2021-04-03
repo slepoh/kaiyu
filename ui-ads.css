@@ -1,0 +1,8 @@
+.home-gg{ width:100%; height:400px; overflow:hidden; display:none; position:relative;}
+.home-gg-img{ position:absolute;z-index:1; width:100%;  height:400px;   }
+.home-gg-close{width:100%; position:absolute; display:none; height:200px; z-index:9;}
+.home-gg-mg{ width:1400px; margin:auto; }
+.home-gg-mg span{ opacity:0.6; float:right; border-radius:20px; background-color:#000; cursor:pointer; color:#fff;
+                   font-size:14px; line-height:40px; text-align:center; font-weight:bold; height:40px; width:40px; display:block;}
+.home-mgg{ width:100%;  overflow:hidden; display:none; position:relative; z-index:999; }
+.home-mgg img{ width:100vw; height:40vw;}
